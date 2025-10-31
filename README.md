@@ -27,3 +27,5 @@ Dayananda H P
 LinkdeIn: https://www.linkedin.com/in/dayananda-h-p-/
 Gmail: dayanandahp06@example.com
 ✅ Feel free to download the dataset or explore the dashboard to understand India’s air quality better!
+
+![27806f45-f045-4128-a2e8-5e49ea9e3d85](https://github.com/user-attachments/assets/ea0debf3-9dca-403b-8145-1bb052482f90)
